@@ -1,7 +1,5 @@
 ## git projects
 
-[toc]
-
 ### Kaczmarz  algothm
 
 ### randomize Kaczmarz 
