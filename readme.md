@@ -2,9 +2,9 @@
 
 ### Kaczmarz  algothm
 
-### randomize Kaczmarz 
+### randomized Kaczmarz 
 
-### greedy randomize Kaczmarz
+### greedy randomized Kaczmarz
 
 
 
